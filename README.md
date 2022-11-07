@@ -27,6 +27,8 @@ Strong creative and analytical skills. Team player with an eye for detail and st
 Vanilla HTML:<br>
 https://hotel-alexandros.gr/
 <br>
+https://github.com/dmavrakis/tindog
+<br>
 
 WordPress:<br>
 https://achilladelislemnos.gr/
