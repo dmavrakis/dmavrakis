@@ -24,10 +24,14 @@ Strong creative and analytical skills. Team player with an eye for detail and st
 
 ### ⌨ Projects
 
-Vanilla HTML:<br>
+HTML:<br>
 https://hotel-alexandros.gr/
 <br>
+
+Bootstrap:
 https://github.com/dmavrakis/tindog
+<br>
+https://vermiocoldstores.gr/
 <br>
 
 WordPress:<br>
