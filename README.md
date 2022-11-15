@@ -28,7 +28,7 @@ HTML:<br>
 https://hotel-alexandros.gr/
 <br>
 
-Bootstrap:
+Bootstrap:<br>
 https://github.com/dmavrakis/tindog
 <br>
 https://vermiocoldstores.gr/
