@@ -39,6 +39,8 @@ https://achilladelislemnos.gr/
 <br>
 https://armonialogou.gr/
 <br>
+<a href="https://github.com/dmavrakis/pdf_portofolio/blob/main/screencapture-north-schoolandoffice-dimitris-aboutdev-gr-2023-01-19-09_43_19.pdf
+">Scholl and Office North (Screenshots PDF)</a>
 
 In Development:<br>
 https://motoexpo.dimitris.aboutdev.gr/<br>
