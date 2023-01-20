@@ -24,7 +24,7 @@ Strong creative and analytical skills. Team player with an eye for detail and st
 
 ### ⌨ Projects
 
-HTML:<br>
+HTML Markup:<br>
 <a href="https://hotel-alexandros.gr/">Hotel Alexandros</a>
 <br>
 
