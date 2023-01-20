@@ -44,9 +44,9 @@ WordPress:<br>
 ">Scholl and Office North (Screenshots PDF)</a>
 
 In Development:<br>
-<a href="https://motoexpo.dimitris.aboutdev.gr/>Moto Expo</a><br>
+<a href="https://motoexpo.dimitris.aboutdev.gr/">Moto Expo</a><br>
 <a href="https://arc.dimitris.aboutdev.gr/">Arc</a><br>
-<a href="https://verde.sila.aboutdev.gr/>Verde-tec</a>
+<a href="https://verde.sila.aboutdev.gr/">Verde-tec</a>
 
 Old Projects:<br>
 <a href="https://zealous-bhabha.88-198-58-118.plesk.page/">DNG SA First Page</a>
