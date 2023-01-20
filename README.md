@@ -42,7 +42,8 @@ https://armonialogou.gr/
 
 In Development:<br>
 https://motoexpo.dimitris.aboutdev.gr/<br>
-https://arc.dimitris.aboutdev.gr/
+https://arc.dimitris.aboutdev.gr/<br>
+https://verde.sila.aboutdev.gr/
 
 Old Projects:<br>
 https://zealous-bhabha.88-198-58-118.plesk.page/
