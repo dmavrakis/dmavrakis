@@ -3,7 +3,7 @@
 **`Front-End Developer`**
 
 
-I'm a Junior Web Developer with 1+ years of experience in HTML, CSS, JavaScript and WordPress. I'm also currently taking an Academy course at College Link on Web Development, so I can hone my skills and get to learn ReactJS, Ajax, PHP and more.
+I'm a Junior Front-end Web Developer with 1+ years of experience in HTML, CSS, JavaScript and WordPress. I'm also currently taking an Academy course at College Link on Web Development, so I can hone my skills and get to learn ReactJS, Ajax, PHP and more.
 Strong creative and analytical skills. Team player with an eye for detail and strong desire to expand his knowledge
 
 ---
