@@ -42,11 +42,17 @@ WordPress:<br>
 <a href="https://dngsa.gr/">DNG SA Final Page</a><br>
 <a href="https://github.com/dmavrakis/pdf_portofolio/blob/main/screencapture-north-schoolandoffice-dimitris-aboutdev-gr-2023-01-19-09_43_19.pdf
 ">Scholl and Office North (Screenshots PDF)</a>
+<br>
+<a href="https://moto-expo.gr">Moto Expo</a><br>
 
 In Development:<br>
-<a href="https://motoexpo.dimitris.aboutdev.gr/">Moto Expo</a><br>
-<a href="https://arc.dimitris.aboutdev.gr/">Arc</a><br>
+<a href="https://arc.dimitris.aboutdev.gr/">Arc</a>
+<br>
 <a href="https://verde.sila.aboutdev.gr/">Verde-tec</a>
+<br>
+<br>
+Woocommerce:<br>
+<a href="https://dmavrakis.biz">LocalEat (University Project)</a>
 
 Old Projects:<br>
 <a href="https://zealous-bhabha.88-198-58-118.plesk.page/">DNG SA First Page</a>
