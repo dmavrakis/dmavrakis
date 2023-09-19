@@ -46,13 +46,10 @@ WordPress:<br>
 <a href="https://moto-expo.gr">Moto Expo</a><br>
 
 In Development:<br>
-<a href="https://arc.dimitris.aboutdev.gr/">Arc</a>
+<a href="https://dmavrakis.biz">LocalEat (University Project using Woocommerce)</a>
 <br>
 <a href="https://verde.sila.aboutdev.gr/">Verde-tec</a>
 <br>
-<br>
-Woocommerce:<br>
-<a href="https://dmavrakis.biz">LocalEat (University Project)</a>
 
 Old Projects:<br>
 <a href="https://zealous-bhabha.88-198-58-118.plesk.page/">DNG SA First Page</a>
